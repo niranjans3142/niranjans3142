@@ -21,6 +21,18 @@
 
 ---
 
+<h3 align="left">💼 Experience</h3>
+
+- **Frontend Developer** — [Viu (PCCW MEDIA)](https://www.viu.com/)  
+- **Software Engineer** — [Elixia Tech Soln. Ltd.](https://www.elixiatech.com/)  
+- **Frontend Developer** — [Your Mechanic](https://www.yourmechanic.com/)  
+- **Frontend Developer** — [Eventera]()  
+- **Frontend Developer** — [Urban Circus]()  
+- **Software Engineer** — [Persistent Systems](https://www.persistent.com/)  
+- **Frontend Engineer** — [Symphony Fintech](https://www.symphonyfintech.com/)  
+
+---
+
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://x.com/niranja88466752" target="_blank">
