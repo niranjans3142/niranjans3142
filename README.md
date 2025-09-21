@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/http://x.com/niranja88466752" target="blank"><img src="https://img.shields.io/twitter/follow/http://x.com/niranja88466752?logo=twitter&style=for-the-badge" alt="http://x.com/niranja88466752" /></a> </p>
 
-- 🔭 I’m currently working as frontend developer in **Viu (OTT)**
+- 🔭 I’m currently working as a frontend developer in **Viu (OTT)**
 
 - 👯 I’m currently working on **Agentic AI project.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/http://x.com/niranja88466752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="http://x.com/niranja88466752" height="30" width="40" /></a>
+<a href="httpz://x.com/niranja88466752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="http://x.com/niranja88466752" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/way_random1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/way_random1/" height="30" width="40" /></a>
 </p>
 
