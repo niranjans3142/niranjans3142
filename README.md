@@ -23,15 +23,47 @@
 
 <h3 align="left">💼 Experience</h3>
 
-- **Frontend Developer** — [Viu (PCCW MEDIA)](https://www.viu.com/)  
-- **Software Engineer** — [Elixia Tech Soln. Ltd.](https://www.elixiatech.com/)  
-- **Frontend Developer** — [Your Mechanic](https://www.yourmechanic.com/)  
-- **Frontend Developer** — [Eventera]()  
-- **Frontend Developer** — [Urban Circus]()  
-- **Software Engineer** — [Persistent Systems](https://www.persistent.com/)  
-- **Frontend Engineer** — [Symphony Fintech](https://www.symphonyfintech.com/)  
+<div align="left">
+
+  <div style="background-color:#000000; color:#ffffff; padding:15px; border-radius:10px; margin-bottom:10px;">
+    <strong>Frontend Developer</strong> — 
+    <a href="https://www.viu.com/" target="_blank" style="color:#1DA1F2;">Viu (PCCW MEDIA)</a>
+  </div>
+
+  <div style="background-color:#000000; color:#ffffff; padding:15px; border-radius:10px; margin-bottom:10px;">
+    <strong>Software Engineer</strong> — 
+    <a href="https://www.elixiatech.com/" target="_blank" style="color:#1DA1F2;">Elixia Tech Soln. Ltd.</a>
+  </div>
+
+  <div style="background-color:#000000; color:#ffffff; padding:15px; border-radius:10px; margin-bottom:10px;">
+    <strong>Frontend Developer</strong> — 
+    <a href="https://www.yourmechanic.com/" target="_blank" style="color:#1DA1F2;">Your Mechanic</a>
+  </div>
+
+  <div style="background-color:#000000; color:#ffffff; padding:15px; border-radius:10px; margin-bottom:10px;">
+    <strong>Frontend Developer</strong> — 
+    <a href="" target="_blank" style="color:#1DA1F2;">Eventera</a>
+  </div>
+
+  <div style="background-color:#000000; color:#ffffff; padding:15px; border-radius:10px; margin-bottom:10px;">
+    <strong>Frontend Developer</strong> — 
+    <a href="" target="_blank" style="color:#1DA1F2;">Urban Circus</a>
+  </div>
+
+  <div style="background-color:#000000; color:#ffffff; padding:15px; border-radius:10px; margin-bottom:10px;">
+    <strong>Software Engineer</strong> — 
+    <a href="https://www.persistent.com/" target="_blank" style="color:#1DA1F2;">Persistent Systems</a>
+  </div>
+
+  <div style="background-color:#000000; color:#ffffff; padding:15px; border-radius:10px; margin-bottom:10px;">
+    <strong>Frontend Engineer</strong> — 
+    <a href="https://www.symphonyfintech.com/" target="_blank" style="color:#1DA1F2;">Symphony Fintech</a>
+  </div>
+
+</div>
 
 ---
+
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
