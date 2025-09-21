@@ -24,7 +24,7 @@
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://x.com/niranja88466752" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/social-media-icons@0.3.1/icons/twitter.svg" alt="X" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/svg-icon@0.8.2/dist/trimmed-svg/ionic/social-twitter-outline.svg" alt="X" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/way_random1/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/social-media-icons@0.3.1/icons/instagram.svg" alt="Instagram" height="30" width="40" />
