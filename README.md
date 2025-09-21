@@ -23,44 +23,15 @@
 
 <h3 align="left">💼 Experience</h3>
 
-<div align="left">
-
-  <div style="background-color:#000000; color:#ffffff; padding:15px; border-radius:10px; margin-bottom:10px;">
-    <strong>Frontend Developer</strong> — 
-    <a href="https://www.viu.com/" target="_blank" style="color:#1DA1F2;">Viu (PCCW MEDIA)</a>
-  </div>
-
-  <div style="background-color:#000000; color:#ffffff; padding:15px; border-radius:10px; margin-bottom:10px;">
-    <strong>Software Engineer</strong> — 
-    <a href="https://www.elixiatech.com/" target="_blank" style="color:#1DA1F2;">Elixia Tech Soln. Ltd.</a>
-  </div>
-
-  <div style="background-color:#000000; color:#ffffff; padding:15px; border-radius:10px; margin-bottom:10px;">
-    <strong>Frontend Developer</strong> — 
-    <a href="https://www.yourmechanic.com/" target="_blank" style="color:#1DA1F2;">Your Mechanic</a>
-  </div>
-
-  <div style="background-color:#000000; color:#ffffff; padding:15px; border-radius:10px; margin-bottom:10px;">
-    <strong>Frontend Developer</strong> — 
-    <a href="" target="_blank" style="color:#1DA1F2;">Eventera</a>
-  </div>
-
-  <div style="background-color:#000000; color:#ffffff; padding:15px; border-radius:10px; margin-bottom:10px;">
-    <strong>Frontend Developer</strong> — 
-    <a href="" target="_blank" style="color:#1DA1F2;">Urban Circus</a>
-  </div>
-
-  <div style="background-color:#000000; color:#ffffff; padding:15px; border-radius:10px; margin-bottom:10px;">
-    <strong>Software Engineer</strong> — 
-    <a href="https://www.persistent.com/" target="_blank" style="color:#1DA1F2;">Persistent Systems</a>
-  </div>
-
-  <div style="background-color:#000000; color:#ffffff; padding:15px; border-radius:10px; margin-bottom:10px;">
-    <strong>Frontend Engineer</strong> — 
-    <a href="https://www.symphonyfintech.com/" target="_blank" style="color:#1DA1F2;">Symphony Fintech</a>
-  </div>
-
-</div>
+| Company | Position |
+|---------|----------|
+| [![Viu](https://img.shields.io/badge/Viu-PCCW_MEDIA-black?style=for-the-badge&logo=viu&logoColor=white)](https://www.viu.com/) | Frontend Developer |
+| [![Elixia](https://img.shields.io/badge/Elixia_Tech_Soln.-black?style=for-the-badge&logo=react&logoColor=white)](https://www.elixiatech.com/) | Software Engineer |
+| [![YourMechanic](https://img.shields.io/badge/YourMechanic-black?style=for-the-badge&logo=javascript&logoColor=white)](https://www.yourmechanic.com/) | Frontend Developer |
+| [![Eventera](https://img.shields.io/badge/Eventera-black?style=for-the-badge&logo=html5&logoColor=white)]() | Frontend Developer |
+| [![Urban Circus](https://img.shields.io/badge/Urban_Circus-black?style=for-the-badge&logo=googlemaps&logoColor=white)]() | Frontend Developer |
+| [![Persistent](https://img.shields.io/badge/Persistent_Systems-black?style=for-the-badge&logo=java&logoColor=white)](https://www.persistent.com/) | Software Engineer |
+| [![Symphony](https://img.shields.io/badge/Symphony_Fintech-black?style=for-the-badge&logo=angular&logoColor=white)](https://www.symphonyfintech.com/) | Frontend Engineer |
 
 ---
 
