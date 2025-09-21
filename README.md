@@ -25,15 +25,16 @@
 
 | Company | Position |
 |---------|----------|
-| [![Viu](https://img.shields.io/badge/Viu-PCCW_MEDIA-black?style=for-the-badge&logo=viu&logoColor=white)](https://www.viu.com/) | Frontend Developer |
-| [![Elixia](https://img.shields.io/badge/Elixia_Tech_Soln.-black?style=for-the-badge&logo=react&logoColor=white)](https://www.elixiatech.com/) | Software Engineer |
-| [![YourMechanic](https://img.shields.io/badge/YourMechanic-black?style=for-the-badge&logo=javascript&logoColor=white)](https://www.yourmechanic.com/) | Frontend Developer |
-| [![Eventera](https://img.shields.io/badge/Eventera-black?style=for-the-badge&logo=html5&logoColor=white)]() | Frontend Developer |
-| [![Urban Circus](https://img.shields.io/badge/Urban_Circus-black?style=for-the-badge&logo=googlemaps&logoColor=white)]() | Frontend Developer |
-| [![Persistent](https://img.shields.io/badge/Persistent_Systems-black?style=for-the-badge&logo=java&logoColor=white)](https://www.persistent.com/) | Software Engineer |
-| [![Symphony](https://img.shields.io/badge/Symphony_Fintech-black?style=for-the-badge&logo=angular&logoColor=white)](https://www.symphonyfintech.com/) | Frontend Engineer |
+| <a href="https://www.viu.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJtDrB_ahDPXEXqLIzE2y094yNXzQwH6YcVg&s" alt="Viu" width="100"/></a> | Frontend Developer |
+| <a href="https://www.elixiatech.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqr6Ub0DPNiHVcB1ETwtEUlKrH5iaWo9iJBQ&s" alt="Elixia Tech" width="100"/></a> | Software Engineer |
+| <a href="https://www.yourmechanic.com/" target="_blank"><img src="https://mms.businesswire.com/media/20210813005040/en/899023/4/Copy_of_Copy_of_YM-LOGO-DARK_%281%29.jpg" alt="YourMechanic" width="100"/></a> | Frontend Developer |
+| <a href="#" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2owWaPVXKyWU-O5IefyTbLvC02zQdXhxrkg&s" alt="Eventera" width="100"/></a> | Frontend Developer |
+| <a href="#" target="_blank"><img src="https://ucstudio.u-c.com.au/map/Apps/Logo/UC_Logo.png" alt="Urban Circus" width="100"/></a> | Frontend Developer |
+| <a href="https://www.persistent.com/" target="_blank"><img src="https://images.seeklogo.com/logo-png/44/1/persistent-systems-logo-png_seeklogo-445425.png" alt="Persistent Systems" width="100"/></a> | Software Engineer |
+| <a href="https://www.symphonyfintech.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-h5ye8v-wX-p_DMWvYr2j0eYgruqAFtf9lg&s" alt="Symphony Fintech" width="100"/></a> | Frontend Engineer |
 
 ---
+
 
 
 <h3 align="left">🌐 Connect with me:</h3>
