@@ -17,8 +17,17 @@
 - 👯 Exploring **Agentic AI projects**
 - 🌱 Learning **React Native & Advanced AI integrations**
 - 💬 Ask me about **React, JavaScript, TypeScript, TailwindCSS**
-- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/niranjan-singh-9b0a7a1a4/)**  
+- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/niranjan-singh-9b0a7a1a4/)**
+  
+---
 
+### 🌐 My Portfolio
+
+[![Visit My Portfolio](https://img.shields.io/badge/Visit_Portfolio-Black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://niranjansingh.space/)
+
+Explore my projects, blogs, and more at [**niranjansingh.space**](https://niranjansingh.space/)
+
+---
 ---
 
 <h3 align="left">💼 Experience</h3>
