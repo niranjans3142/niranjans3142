@@ -39,7 +39,7 @@ Explore my projects, blogs, and more at [**niranjansingh.space**](https://niranj
 | <a href="https://www.yourmechanic.com/" target="_blank"><img src="https://mms.businesswire.com/media/20210813005040/en/899023/4/Copy_of_Copy_of_YM-LOGO-DARK_%281%29.jpg" alt="YourMechanic" width="100"/></a> | Frontend Developer |
 | <a href="#" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2owWaPVXKyWU-O5IefyTbLvC02zQdXhxrkg&s" alt="Eventera" width="100"/></a> | Frontend Developer |
 | <a href="#" target="_blank"><img src="https://ucstudio.u-c.com.au/map/Apps/Logo/UC_Logo.png" alt="Urban Circus" width="100"/></a> | Frontend Developer |
-| <a href="https://www.persistent.com/" target="_blank"><img src="https://images.seeklogo.com/logo-png/44/1/persistent-systems-logo-png_seeklogo-445425.png" alt="Persistent Systems" width="100"/></a> | Software Engineer |
+| <a href="https://www.persistent.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURX0q1iHLXl0nKTksc2V3DlVm9csSgEy2oA&s" alt="Persistent Systems" width="100"/></a> | Software Engineer |
 | <a href="https://www.symphonyfintech.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-h5ye8v-wX-p_DMWvYr2j0eYgruqAFtf9lg&s" alt="Symphony Fintech" width="100"/></a> | Frontend Engineer |
 
 ---
