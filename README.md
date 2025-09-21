@@ -36,7 +36,7 @@ Explore my projects, at [**niranjansingh.space**](https://niranjansingh.space/#w
 |---------|----------|
 | <a href="https://www.viu.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJtDrB_ahDPXEXqLIzE2y094yNXzQwH6YcVg&s" alt="Viu" width="100"/></a> | Senior Software Developer |
 | <a href="https://elixia.tech/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqr6Ub0DPNiHVcB1ETwtEUlKrH5iaWo9iJBQ&s" alt="Elixia Tech" width="100"/></a> | Senior Software Engineer |
-| <a href="https://www.yourmechanic.com/" target="_blank"><img src="https://mms.businesswire.com/media/20210813005040/en/899023/4/Copy_of_Copy_of_YM-LOGO-DARK_%281%29.jpg" alt="YourMechanic" width="100"/></a> | Frontend Developer |
+| <a href="https://www.yourmechanic.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZe8cLpOfollmXZwP-nqZdmBgce_WrOLZ0SA&s" alt="YourMechanic" width="100"/></a> | Frontend Developer |
 | <a href="https://reverent-swanson-22aece.netlify.app" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2owWaPVXKyWU-O5IefyTbLvC02zQdXhxrkg&s" alt="Eventera" width="100"/></a> | Individual contributor |
 | <a href="https://www.urbancgi.com/" target="_blank"><img src="https://ucstudio.u-c.com.au/map/Apps/Logo/UC_Logo.png" alt="Urban Circus" width="100"/></a> | Individual contributor |
 | <a href="https://www.symphonyfintech.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-h5ye8v-wX-p_DMWvYr2j0eYgruqAFtf9lg&s" alt="Symphony Fintech" width="100"/></a> | Frontend Engineer |
